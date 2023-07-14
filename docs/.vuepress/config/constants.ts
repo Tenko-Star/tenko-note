@@ -1,8 +1,8 @@
 export default {
     MAIN_TITLE: '我的生活笔记',
     MAIN_DESC: 'Tenko的个人笔记',
-    LOGO_PNG: '/assets/img/logo.png',
-    LOGO_ICON: '/assets/img/logo.png',
+    LOGO_PNG: '/assets/img/logo-tk.png',
+    LOGO_ICON: '/assets/img/logo-tk.png',
     REPO: 'Tenko-Star/tenko-note',
     GITHUB_URL: 'https://github.com/Tenko-Star',
     GITEE_URL: 'https://gitee.com/Tenko-Star',
