@@ -6,3 +6,5 @@
 **/*.bak.*
 
 res/
+
+publish.ps1
