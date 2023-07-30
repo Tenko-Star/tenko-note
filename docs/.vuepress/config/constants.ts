@@ -1,5 +1,5 @@
 export default {
-    MAIN_TITLE: '我的生活笔记',
+    MAIN_TITLE: 'TENKO BLOG',
     MAIN_DESC: 'Tenko的个人笔记',
     LOGO_PNG: '/assets/img/logo-tk.png',
     LOGO_ICON: '/assets/img/logo-tk.png',

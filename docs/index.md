@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 我的生活笔记
+heroText: TENKO BLOG
 tagline: 积跬步以至千里，致敬每个爱学习的你。
 bannerBg: none
 
