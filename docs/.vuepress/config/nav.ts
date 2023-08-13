@@ -13,6 +13,7 @@ export default <Array<NavItem>>[
       {text: "Linux", link: "/linux/"},
     ]
   },
+  {text: "读书笔记", link: "/book/"},
   {text: "算法", link: "/algorithm/"},
   {text: "杂项", link: "/others/"},
   {
