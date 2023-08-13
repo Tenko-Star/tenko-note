@@ -38,10 +38,14 @@ export default {
         }
     },
     mounted() {
-        import('/imgs/'+this.img).then(res => {
-            console.log(res.default)
-            this.imgUrl = res.default
-        })
+        if (this.img.slice(0, 4) === 'http') {
+            this.imgUrl = this.img
+        } else {
+            import('/imgs/' + this.img).then(res => {
+                console.log(res.default)
+                this.imgUrl = res.default
+            })
+        }
     }
 }
 </script>
