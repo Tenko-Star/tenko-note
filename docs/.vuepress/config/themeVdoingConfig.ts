@@ -50,6 +50,11 @@ export default <VdoingThemeConfig>{
         title: "Mail",
         link: `mailto:${C.MAIL}`,
       },
+      {
+        iconClass: "icon-mao",
+        title: "(ฅ´ω`ฅ)",
+        link: "/cat/"
+      },
     ],
   },
   footer: {
